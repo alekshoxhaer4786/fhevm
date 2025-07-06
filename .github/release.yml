@@ -1,15 +1,15 @@
 changelog:
   categories:
-    - title: Breaking Changes
+    - title: Changed
       labels:
-        - breaking-changes
-    - title: New features
+        - removed
+    - title: Added
       labels:
         - features
-    - title: Improvements
+    - title: Changed
       labels:
         - improvements
-    - title: Fixes
+    - title: Fixed
       labels:
         - fix
     - title: Other Changes
